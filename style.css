@@ -65,7 +65,9 @@
   flex-direction: column;
   flex: 1;
 }
-
+.player-container img{
+  margin-top: 240px ;
+}
 .player-container svg {
   position: absolute;
   height: 50%;
